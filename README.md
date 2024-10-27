@@ -1,6 +1,10 @@
 # 📱 This is an Assignment Application
 
-
+## 📦Packages used
+- webview_flutter
+- flutter_riverpod
+- go_router
+- 
 ## 📱 Screenshots
 <table>
   <tr>
