@@ -8,8 +8,8 @@
     <th>WebView</th>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/5eae8254-e723-495a-90dd-77f44e6438e2" alt="Home Screen" width="250"/></td>
-    <td><img src="https://github.com/user-attachments/assets/810c9bc3-df15-4c05-97b3-b09fb1f2c94a" alt="WebView Screen" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/71d0b72e-e2eb-407c-a5a3-d70ccf494d2b" alt="Home Screen" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/c476d8ac-847b-4cc1-9bf3-5f4b6b874fda" alt="WebView Screen" width="250"/></td>
   </tr>
 </table>
 
